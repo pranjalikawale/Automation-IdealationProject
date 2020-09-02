@@ -1,0 +1,49 @@
+
+08/11/2020 06:21:10 PM: INFO: Name : test_login when : call  status : passed
+
+
+08/11/2020 06:21:35 PM: INFO: Name : test_new_person_added when : call  status : passed
+
+
+08/11/2020 06:22:00 PM: INFO: Name : test_new_person_case when : call  status : passed
+
+
+08/11/2020 06:22:59 PM: INFO: Name : test_tags_added when : call  status : passed
+
+
+08/11/2020 06:23:26 PM: INFO: Name : test_task_category_add when : call  status : passed
+
+
+08/11/2020 06:24:02 PM: INFO: Name : test_tracks_added when : call  status : passed
+
+
+08/11/2020 06:24:30 PM: INFO: Name : test_milestone_added when : call  status : passed
+
+
+08/11/2020 06:25:06 PM: INFO: Name : test_user_add when : call  status : passed
+
+
+08/11/2020 06:25:23 PM: INFO: Name : test_total_configure_button when : call  status : passed
+
+
+08/11/2020 06:25:52 PM: INFO: Name : test_upload_logo_image_in_appearance when : call  status : passed
+
+
+08/11/2020 06:25:59 PM: INFO: Name : test_logout when : call  status : passed
+
+
+08/11/2020 06:27:01 PM: INFO: Name : test_login_with_invalid_credentials when : call  status : passed
+
+
+08/12/2020 09:47:04 AM: INFO: Name : test_new_person_added when : call  status : passed
+
+
+08/12/2020 09:53:17 AM: INFO: Name : test_new_person_added when : call  status : passed
+
+
+08/12/2020 09:59:09 AM: INFO: Name : test_tags_added when : call  status : passed
+
+
+08/12/2020 10:42:09 AM: INFO: Name : test_user_add when : call  status : passed
+
+
